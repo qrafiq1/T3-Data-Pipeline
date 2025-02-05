@@ -1,0 +1,12 @@
+pytest
+pylint
+python-dotenv
+boto3
+pandas
+pyarrow
+altair
+redshift_connector
+streamlit
+plotly
+boto3
+openpyxl

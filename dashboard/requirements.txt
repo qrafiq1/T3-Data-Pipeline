@@ -1,0 +1,5 @@
+pandas
+redshift_connector
+python-dotenv
+streamlit
+plotly

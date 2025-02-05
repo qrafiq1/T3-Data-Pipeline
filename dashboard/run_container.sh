@@ -1,0 +1,1 @@
+docker run -p 8501:8501 --env-file .env.prod dashboard-image:v0.1
